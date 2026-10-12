@@ -1,0 +1,1 @@
+int main() { write("Hello Prithibi\n"); return 0; }
