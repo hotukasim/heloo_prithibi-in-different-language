@@ -1,1 +1,0 @@
-see "Hello Prithibi\n"
